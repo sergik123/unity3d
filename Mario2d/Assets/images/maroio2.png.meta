@@ -1,0 +1,1008 @@
+fileFormatVersion: 2
+guid: 498bff8d10e0e0640ba762fb54f0e190
+timeCreated: 1497870870
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: maroio2_idle
+    21300002: maroio2_1
+    21300004: maroio2_walk1
+    21300006: maroio2_walk2
+    21300008: maroio2_walk3
+    21300010: maroio2_walk4
+    21300012: maroio2_6
+    21300014: maroio2_7
+    21300016: maroio2_8
+    21300018: maroio2_9
+    21300020: maroio2_10
+    21300022: maroio2_11
+    21300024: maroio2_walk5
+    21300026: maroio2_walk6
+    21300028: maroio2_walk7
+    21300030: maroio2_walk8
+    21300032: maroio2_16
+    21300034: maroio2_17
+    21300036: maroio2_18
+    21300038: maroio2_19
+    21300040: maroio2_20
+    21300042: maroio2_21
+    21300044: maroio2_die1
+    21300046: maroio2_die2
+    21300048: maroio2_die3
+    21300050: maroio2_die4
+    21300052: maroio2_die5
+    21300054: maroio2_27
+    21300056: maroio2_28
+    21300058: maroio2_29
+    21300060: maroio2_jump
+    21300062: maroio2_31
+    21300064: maroio2_32
+    21300066: maroio2_33
+    21300068: maroio2_34
+    21300070: maroio2_35
+    21300072: maroio2_36
+    21300074: maroio2_37
+    21300076: maroio2_38
+    21300078: maroio2_39
+    21300080: maroio2_40
+    21300082: maroio2_41
+    21300084: maroio2_42
+    21300086: maroio2_43
+    21300088: maroio2_44
+    21300090: maroio2_45
+    21300092: maroio2_46
+    21300094: maroio2_47
+    21300096: maroio2_48
+    21300098: maroio2_49
+    21300100: maroio2_50
+    21300102: maroio2_51
+    21300104: maroio2_52
+    21300106: maroio2_53
+    21300108: maroio2_54
+    21300110: maroio2_55
+    21300112: maroio2_56
+    21300114: maroio2_57
+    21300116: maroio2_58
+    21300118: maroio2_59
+    21300120: maroio2_60
+    21300122: maroio2_61
+    21300124: maroio2_62
+    21300126: maroio2_63
+    21300128: maroio2_64
+    21300130: maroio2_65
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maroio2_idle
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 670
+        width: 51
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 670
+        width: 46
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_walk1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 671
+        width: 46
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_walk2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 671
+        width: 46
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_walk3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 675
+        width: 58
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_walk4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 673
+        width: 58
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 69
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 669
+        width: 70
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 668
+        width: 69
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_9
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 665
+        width: 70
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_10
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 665
+        width: 70
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_11
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 668
+        width: 70
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_walk5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 575
+        width: 47
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_walk6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 574
+        width: 55
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_walk7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 582
+        width: 60
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_walk8
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 574
+        width: 54
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 574
+        width: 69
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 570
+        width: 70
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 570
+        width: 69
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_19
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 573
+        width: 70
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_20
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 568
+        width: 70
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_21
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 570
+        width: 71
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_die1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 466
+        width: 58
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_die2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 468
+        width: 83
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_die3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 473
+        width: 83
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_die4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 466
+        width: 90
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_die5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 466
+        width: 93
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_27
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 445
+        width: 66
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_28
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 445
+        width: 66
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_29
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 448
+        width: 71
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_jump
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 463
+        width: 70
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 319
+        width: 73
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_32
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 319
+        width: 50
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_33
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 319
+        width: 58
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 318
+        width: 57
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 318
+        width: 48
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_36
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 335
+        width: 71
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_37
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 336
+        width: 67
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_38
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 335
+        width: 66
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_39
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 339
+        width: 67
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_40
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 332
+        width: 67
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 217
+        width: 48
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_42
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 216
+        width: 69
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_43
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 216
+        width: 79
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_44
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 216
+        width: 80
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_45
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 216
+        width: 80
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_46
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 207
+        width: 72
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_47
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 207
+        width: 62
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_48
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 213
+        width: 66
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_49
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 217
+        width: 73
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_50
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 218
+        width: 83
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 114
+        width: 62
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 123
+        width: 79
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_53
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 114
+        width: 74
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_54
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 114
+        width: 69
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_55
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 114
+        width: 69
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_56
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 94
+        width: 50
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_57
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 94
+        width: 48
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_58
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 94
+        width: 47
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_59
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 92
+        width: 74
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_60
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 95
+        width: 77
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_61
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 102
+        width: 86
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_62
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2
+        width: 80
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_63
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3
+        width: 79
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_64
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2
+        width: 75
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maroio2_65
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 4
+        width: 77
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

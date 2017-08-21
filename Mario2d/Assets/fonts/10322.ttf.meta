@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: eddc98bb9f818784d908dbf6483b3d13
+timeCreated: 1498811980
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Batman Forever Alternate Cyr
+  fontNames:
+  - Batman Forever Alternate Cyr
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

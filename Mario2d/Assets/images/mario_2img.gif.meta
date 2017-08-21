@@ -1,0 +1,3768 @@
+fileFormatVersion: 2
+guid: fc36dfdebe6f35245a752b8648f3b9a5
+timeCreated: 1497609130
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mario_2img_0
+    21300002: mario_2img_1
+    21300004: mario_2img_2
+    21300006: mario_2img_3
+    21300008: mario_2img_4
+    21300010: mario_2img_5
+    21300012: mario_2img_6
+    21300014: mario_2img_7
+    21300016: mario_2img_8
+    21300018: mario_2img_9
+    21300020: mario_2img_10
+    21300022: mario_2img_11
+    21300024: mario_2img_12
+    21300026: mario_2img_13
+    21300028: mario_2img_14
+    21300030: mario_down
+    21300032: mario_2img_16
+    21300034: mario_2img_17
+    21300036: mario_2img_18
+    21300038: mario_2img_19
+    21300040: mario_2img_20
+    21300042: mario_2img_21
+    21300044: mario_2img_22
+    21300046: mario_2img_23
+    21300048: mario_2img_24
+    21300050: mario_2img_25
+    21300052: mario_2img_26
+    21300054: mario_2img_27
+    21300056: mario_2img_28
+    21300058: mario_2img_29
+    21300060: mario_2img_30
+    21300062: mario_2img_31
+    21300064: mario_2img_32
+    21300066: mario_2img_33
+    21300068: mario_2img_34
+    21300070: mario_2img_35
+    21300072: mario_2img_36
+    21300074: mario_2img_37
+    21300076: mario_2img_38
+    21300078: mario_2img_39
+    21300080: mario_2img_40
+    21300082: mario_2img_41
+    21300084: mario_2img_42
+    21300086: mario_2img_43
+    21300088: mario_2img_44
+    21300090: mario_2img_45
+    21300092: mario_2img_46
+    21300094: mario_2img_47
+    21300096: mario_2img_48
+    21300098: mario_2img_49
+    21300100: mario_2img_50
+    21300102: mario_2img_51
+    21300104: mario_2img_52
+    21300106: mario_2img_53
+    21300108: mario_2img_54
+    21300110: mario_2img_55
+    21300112: mario_2img_56
+    21300114: mario_2img_57
+    21300116: mario_2img_58
+    21300118: mario_2img_59
+    21300120: mario_2img_60
+    21300122: mario_2img_61
+    21300124: mario_2img_62
+    21300126: mario_2img_63
+    21300128: mario_2img_64
+    21300130: mario_2img_65
+    21300132: mario_2img_66
+    21300134: mario_2img_67
+    21300136: mario_2img_68
+    21300138: mario_2img_69
+    21300140: mario_2img_70
+    21300142: mario_2img_71
+    21300144: mario_2img_72
+    21300146: mario_2img_73
+    21300148: mario_2img_74
+    21300150: mario_2img_75
+    21300152: mario_2img_76
+    21300154: mario_2img_77
+    21300156: mario_2img_78
+    21300158: mario_2img_79
+    21300160: mario_2img_80
+    21300162: mario_2img_81
+    21300164: mario_2img_82
+    21300166: mario_2img_83
+    21300168: mario_2img_84
+    21300170: mario_2img_85
+    21300172: mario_2img_86
+    21300174: mario_2img_87
+    21300176: mario_2img_88
+    21300178: mario_2img_89
+    21300180: mario_2img_90
+    21300182: mario_2img_91
+    21300184: mario_2img_92
+    21300186: mario_2img_93
+    21300188: mario_2img_94
+    21300190: mario_2img_95
+    21300192: mario_2img_96
+    21300194: mario_2img_97
+    21300196: mario_2img_98
+    21300198: mario_2img_99
+    21300200: mario_2img_100
+    21300202: mario_2img_101
+    21300204: mario_2img_102
+    21300206: mario_2img_103
+    21300208: mario_2img_104
+    21300210: mario_2img_105
+    21300212: mario_2img_106
+    21300214: mario_2img_107
+    21300216: mario_2img_108
+    21300218: mario_2img_109
+    21300220: mario_2img_110
+    21300222: mario_2img_111
+    21300224: mario_2img_112
+    21300226: mario_2img_113
+    21300228: mario_2img_114
+    21300230: mario_2img_115
+    21300232: mario_2img_116
+    21300234: mario_2img_117
+    21300236: mario_2img_118
+    21300238: mario_2img_119
+    21300240: mario_2img_120
+    21300242: mario_2img_121
+    21300244: mario_2img_122
+    21300246: mario_2img_123
+    21300248: mario_2img_124
+    21300250: mario_2img_125
+    21300252: mario_2img_126
+    21300254: mario_2img_127
+    21300256: mario_2img_128
+    21300258: mario_2img_129
+    21300260: mario_2img_130
+    21300262: mario_2img_131
+    21300264: mario_2img_132
+    21300266: mario_2img_133
+    21300268: mario_2img_134
+    21300270: mario_2img_135
+    21300272: mario_2img_136
+    21300274: mario_2img_137
+    21300276: mario_2img_138
+    21300278: mario_2img_139
+    21300280: mario_2img_140
+    21300282: mario_2img_141
+    21300284: mario_2img_142
+    21300286: mario_2img_143
+    21300288: mario_2img_144
+    21300290: mario_2img_145
+    21300292: mario_2img_146
+    21300294: mario_2img_147
+    21300296: mario_2img_148
+    21300298: mario_2img_149
+    21300300: mario_2img_150
+    21300302: mario_2img_151
+    21300304: mario_2img_152
+    21300306: mario_2img_153
+    21300308: mario_2img_154
+    21300310: mario_2img_155
+    21300312: mario_2img_156
+    21300314: mario_2img_157
+    21300316: mario_2img_158
+    21300318: mario_2img_159
+    21300320: mario_2img_160
+    21300322: mario_2img_161
+    21300324: mario_2img_162
+    21300326: mario_2img_163
+    21300328: mario_2img_164
+    21300330: mario_2img_165
+    21300332: mario_2img_166
+    21300334: mario_2img_167
+    21300336: mario_2img_168
+    21300338: mario_2img_169
+    21300340: mario_2img_170
+    21300342: mario_2img_171
+    21300344: mario_2img_172
+    21300346: mario_2img_173
+    21300348: mario_2img_174
+    21300350: mario_2img_175
+    21300352: mario_2img_176
+    21300354: mario_2img_177
+    21300356: mario_2img_178
+    21300358: mario_2img_179
+    21300360: mario_2img_180
+    21300362: mario_2img_181
+    21300364: mario_2img_182
+    21300366: mario_2img_183
+    21300368: mario_2img_184
+    21300370: mario_2img_185
+    21300372: mario_2img_186
+    21300374: mario_2img_187
+    21300376: mario_2img_188
+    21300378: mario_2img_189
+    21300380: mario_2img_190
+    21300382: mario_2img_191
+    21300384: mario_2img_192
+    21300386: mario_2img_193
+    21300388: mario_2img_194
+    21300390: mario_2img_195
+    21300392: mario_2img_196
+    21300394: mario_2img_197
+    21300396: mario_2img_198
+    21300398: mario_2img_199
+    21300400: mario_2img_200
+    21300402: mario_2img_201
+    21300404: mario_2img_202
+    21300406: mario_2img_203
+    21300408: mario_2img_204
+    21300410: mario_2img_205
+    21300412: mario_2img_206
+    21300414: mario_2img_207
+    21300416: mario_2img_208
+    21300418: mario_2img_209
+    21300420: mario_2img_210
+    21300422: mario_2img_211
+    21300424: mario_2img_212
+    21300426: mario_2img_213
+    21300428: mario_2img_214
+    21300430: mario_2img_215
+    21300432: mario_2img_216
+    21300434: mario_2img_217
+    21300436: mario_2img_218
+    21300438: mario_2img_219
+    21300440: mario_2img_220
+    21300442: mario_2img_221
+    21300444: mario_2img_222
+    21300446: mario_2img_223
+    21300448: mario_2img_224
+    21300450: mario_2img_225
+    21300452: mario_2img_226
+    21300454: mario_2img_227
+    21300456: mario_2img_228
+    21300458: mario_2img_229
+    21300460: mario_2img_230
+    21300462: mario_2img_231
+    21300464: mario_2img_232
+    21300466: mario_2img_233
+    21300468: mario_2img_234
+    21300470: mario_2img_235
+    21300472: mario_2img_236
+    21300474: mario_2img_237
+    21300476: mario_2img_238
+    21300478: mario_2img_239
+    21300480: mario_2img_240
+    21300482: mario_2img_241
+    21300484: mario_2img_242
+    21300486: mario_2img_243
+    21300488: mario_2img_244
+    21300490: mario_2img_245
+    21300492: mario_2img_246
+    21300494: mario_2img_247
+    21300496: mario_2img_248
+    21300498: mario_2img_249
+    21300500: mario_2img_250
+    21300502: mario_2img_251
+    21300504: mario_2img_252
+    21300506: mario_2img_253
+    21300508: mario_2img_254
+    21300510: mario_2img_255
+    21300512: mario_2img_256
+    21300514: mario_2img_257
+    21300516: mario_2img_258
+    21300518: mario_2img_259
+    21300520: mario_2img_260
+    21300522: mario_2img_261
+    21300524: mario_2img_262
+    21300526: mario_2img_263
+    21300528: mario_2img_15
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mario_2img_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 368
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 368
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 368
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 368
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 368
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 368
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 368
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 368
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 368
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 368
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 368
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 368
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 368
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 368
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 368
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_15
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 368
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 368
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 368
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 368
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 368
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 368
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_21
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 368
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 368
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_23
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 368
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_24
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 368
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_25
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 368
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_26
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 368
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_27
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 368
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 341
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_29
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 341
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 341
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_31
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 341
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 341
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_33
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 341
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 341
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_35
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 341
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_36
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 341
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 341
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 341
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 341
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 341
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_41
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 341
+        width: 13
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_42
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 341
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_43
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 341
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_44
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 341
+        width: 13
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_45
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 341
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_46
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 341
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_47
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 341
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_48
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 341
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_49
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 341
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_50
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 341
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_51
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 341
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_52
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 341
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_53
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 341
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_54
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 341
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_55
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 341
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_56
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 341
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_57
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 341
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 306
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_59
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 306
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_60
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 306
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 306
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_62
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 305
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_63
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 306
+        width: 15
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_64
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 306
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_65
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 306
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_66
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 306
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_67
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 305
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_68
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 306
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_69
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 306
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_70
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 306
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_71
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 306
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_72
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 306
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 306
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_74
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 306
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_75
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 306
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_76
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 305
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_77
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 306
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_78
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 306
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_79
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 306
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_80
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 306
+        width: 15
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_81
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 306
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_82
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 306
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_83
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 306
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_84
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 306
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_85
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 306
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_86
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 279
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_87
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 279
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_88
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 279
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_89
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 279
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_90
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 279
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_91
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 279
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_92
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 279
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_93
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 279
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_94
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 279
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 279
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_96
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 279
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_97
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 279
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_98
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 279
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_99
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 279
+        width: 13
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_100
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 279
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_101
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 279
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_102
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 279
+        width: 13
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_103
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 279
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_104
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 279
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_105
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 279
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_106
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 279
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_107
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 279
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_108
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 279
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_109
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 279
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_110
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 279
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_111
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 279
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_112
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 279
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_113
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 279
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_114
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 279
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_115
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 279
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_116
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 244
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_117
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 244
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_118
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 244
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_119
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 244
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_120
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 244
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_121
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 244
+        width: 15
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_122
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 244
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_123
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 244
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_124
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 244
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_125
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 244
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_126
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 244
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_127
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 244
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_128
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 244
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_129
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 244
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_130
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 244
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_131
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 244
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_132
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 244
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_133
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 244
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_134
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 244
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_135
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 244
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_136
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 244
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_137
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 244
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_138
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 244
+        width: 15
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_139
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 244
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_140
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 244
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_141
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 244
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_142
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 244
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_143
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 244
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_144
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 197
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_145
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 197
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_146
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 217
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_147
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 217
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_148
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 217
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_149
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 217
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_150
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 197
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_151
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 197
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_152
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 197
+        width: 17
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_153
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 197
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_154
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 197
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_155
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 197
+        width: 17
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_156
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 197
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_157
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 197
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_158
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 197
+        width: 17
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_159
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 197
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_160
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 197
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_161
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 170
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_162
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 170
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_163
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 170
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_164
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 168
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_165
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 170
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_166
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 170
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_167
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 170
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_168
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 170
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_169
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 170
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_170
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 170
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_171
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 170
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_172
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 170
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_173
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 170
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_174
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 170
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_175
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 170
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_176
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 170
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_177
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 170
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_178
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 170
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_179
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 170
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_180
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 170
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_181
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 168
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_182
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 170
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_183
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 168
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_184
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 171
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_185
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 143
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_186
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 143
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_187
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 143
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_188
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_189
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 143
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_190
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 143
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_191
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_192
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 143
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_193
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 143
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_194
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 143
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_195
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 143
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_196
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 143
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_197
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 143
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_198
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 143
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_199
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 116
+        width: 18
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_200
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 143
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_201
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 143
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_202
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 143
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_203
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 116
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_204
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 116
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_205
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 116
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_206
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 116
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_207
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 116
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_208
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 116
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_209
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 116
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_210
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 116
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_211
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 116
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_212
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 116
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_213
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 116
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_214
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 124
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_215
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 116
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_216
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 116
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_217
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 116
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_218
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 116
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_219
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 116
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_220
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 116
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_221
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 116
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_222
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 116
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_223
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 116
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_224
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 89
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_225
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 89
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_226
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 89
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_227
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 89
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_228
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 70
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_229
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_230
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_231
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_232
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 70
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_233
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_234
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_235
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_236
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 70
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_237
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_238
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_239
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_240
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_241
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_242
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_243
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 70
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_244
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_245
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_246
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_247
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 70
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_248
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_249
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_250
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 70
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_251
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 70
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_252
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 52
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_253
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 35
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_254
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 52
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_255
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_256
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_257
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_258
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_259
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_260
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_261
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mario_2img_262
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
